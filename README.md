@@ -1,6 +1,6 @@
-# Community Manager Mentorship
+# Community Manager Apprenticeship
 
-This repository contains all materials relating to the Atom Community Manager mentorship project.
+This repository contains the [lesson plan](lesson-plan.md) and curriculum for the Atom Community Manager apprenticeship project.
 
 ## Copyright
 
