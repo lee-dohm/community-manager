@@ -2,7 +2,7 @@
 
 ## General Communication
 
-* Conversational Aikido - Directing the flow of conversation
+* [Conversational Aikido](conversational-aikido.md) - Directing the flow of conversation
 * When not to respond - Extinction
 * Up with which I shall not put - Taking care of yourself and the community
 * Open Source - How it is different from normal customer support
