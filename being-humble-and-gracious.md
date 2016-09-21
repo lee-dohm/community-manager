@@ -8,7 +8,7 @@ This has been one of my biggest personal struggles. Long ago I decided that in o
 
 When she said that, I realized what I had been doing wrong. Here is someone taking the time to give me a compliment and I'm giving them :poop: for it! This pattern is deeply ingrained for some people whether it is arguing with them like I did or declining the praise. How many times have you heard someone say, "No, that wasn't a big deal," or "It was nothing really," or "I didn't do that much," when someone else is trying to give them a compliment? Many people who follow this pattern seem to think that it is being humble when really it is akin to fishing for compliments because most people's reaction is to heap more praise on the recipient in an effort to "convince" them. True humility is accepting what one is given and appreciating it for what it is.
 
-Even worse, the pattern of not accepting praise can be damaging to a community. It subtly trains people to not appreciate others. This can spiral downwards and create a culture of negativity. This is exactly the opposite of the direction you want your community to go in order to be successful.
+Even worse, the pattern of not accepting praise can be damaging to a community. It subtly trains people to not appreciate others. This can spiral downwards and create a culture of negativity. When people are taught not to express positive thoughts toward each other all that is left is the negative. This is exactly the opposite of the direction you want your community to go in order to be successful.
 
 So, when someone takes the time to show their appreciation:
 
