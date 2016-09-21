@@ -1,5 +1,7 @@
 # Up With Which I Shall Not Put
 
+Being a Community Manager is often about setting boundaries, both for yourself and for the members of the community.
+
 ## Being Self-Aware
 
 Guiding a community is stressful work. You have to hold yourself to the highest of standards while everyone else gets to be human. Knowing when you're not at your best will help you [prevent embarassing situations](https://youtu.be/0VYvdsrV6Lw?t=60). Fortunately, you don't have to be at your 100% best *all the time*. But when a tough conversation comes up, you should ask yourself if you are:
