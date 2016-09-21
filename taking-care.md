@@ -17,6 +17,6 @@ If you're any of these things, you should probably respond later when you can ha
 
 ## But I **Have** To Say **Something**
 
-There are times when you have just had it up to **here** with these people :rage: You feel like you're going to explode if you don't get what you're thinking and feeling off your chest. You're human. It happens to all of us. Here's what I do when I am in this frame of mind: I write the reply and then delete it. At many times I delete far more than I post.
+There are times when you have just had it up to **here** with these people :rage: You feel like you're going to explode if you don't get what you're thinking and feeling off your chest. You're human. It happens to all of us. Here's what I do when I am in this frame of mind: I write the reply and then delete it. Many times I delete far more than I post.
 
 Psychologists have shown repeatedly that imagining doing things has a lot of the same impact mentally as actually doing them. So by writing out your reply and venting all your frustration you can release it and move on, whether or not the other person will ever know. If you're worried that you'll accidentally post it you can type it in a text editor so that isn't a risk.
