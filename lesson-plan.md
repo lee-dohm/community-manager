@@ -4,7 +4,7 @@
 
 * [Conversational Aikido](conversational-aikido.md) - Directing the flow of conversation
 * [When not to respond](when-not-to-respond.md) - Extinction
-* Up with which I shall not put - Taking care of yourself and the community
+* [Up with which I shall not put](taking-care-of-yourself-and-community.md) - Taking care of yourself and the community
 * Open Source - How it is different from normal customer support
 * The X/Y Problem - How to get at the real problem underneath it all
 
