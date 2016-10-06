@@ -47,7 +47,7 @@ Also make sure that you're **adding** things to the conversation, not removing t
 * "Have you thought about ...?"
 * "What would you think of ...?"
 
-When you're in an emotionally charged situation, avoid using "no", "don't", "won't" or "can't". It removes options and generally escalates the conflict.
+When you're in an emotionally charged situation, [avoid using "no", "don't", "won't" or "can't"](https://www.youtube.com/watch?v=GtARiQO8ljE). It removes options and generally escalates the conflict.
 
 ## Summary
 
