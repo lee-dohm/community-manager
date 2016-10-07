@@ -9,6 +9,11 @@
 * Open Source - How it is different from normal customer support
 * The X/Y Problem - How to get at the real problem underneath it all
 
+## Moderation
+
+* The Ministry of Truth - When to edit or delete posts or lock threads
+* Taking Out the Trash - When to warn and ban people
+
 ## Triage
 
 * Bugs, Enhancements, Feedback and Questions
