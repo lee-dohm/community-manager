@@ -6,7 +6,7 @@
 * [When not to respond](when-not-to-respond.md) - Extinction
 * [Up with which I shall not put](taking-care.md) - Taking care of yourself and the community
 * [Being humble and gracious](being-humble-and-gracious.md) - How to be a good host
-* Open Source - How it is different from normal customer support
+* [Open Source](open-source-support.md) - How it is different from normal customer support
 * The X/Y Problem - How to get at the real problem underneath it all
 
 ## Moderation
