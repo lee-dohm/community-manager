@@ -18,3 +18,11 @@ So, when someone takes the time to show their appreciation:
 There is an important distinction between "sharing" praise and "redirecting" it. Redirecting praise is saying something like, "No, not me, I didn't do anything. Joe is the one that you should be thanking." Sharing praise is saying something along the lines of, "Thank you very much, the team loves to hear what exciting things people are doing with our work." Redirecting is an implicit rejection of someone's appreciation and then puts the onus back on them to go find the "correct" target for their compliment. You're essentially making them do more work when they're trying to do something nice. Sharing praise accepts the compliment and amplifies it by spreading the :heart: around.
 
 By showing appreciation for people taking the time to give compliments, you're encouraging them to do it more. This should create a more positive and giving community.
+
+## "You're Welcome" vs. "No Problem"
+
+There is a [lot of debate around whether one should use "you're welcome" or "no problem"][linguistic-view] in response to someone saying thanks. Even [semantically][semantic], the phrases are complex and layered with undertones. For most people, either phrase will be perfectly acceptable. In community management, saying ["you're welcome" goes that one extra mile][case-against] that using "no problem" does not. Not only is it saying that they were welcome to your assistance, whatever form that took, it also implies that they are welcome to be there, welcomed into the community. The more positivity you can create, the better off your community will be.
+
+[case-against]: http://www.npr.org/sections/13.7/2015/02/01/383060338/a-case-against-the-phrase-no-problem
+[linguistic]: http://allthingslinguistic.com/post/124189121619/no-problem-vs-youre-welcome
+[semantic]: http://english.stackexchange.com/a/146679
