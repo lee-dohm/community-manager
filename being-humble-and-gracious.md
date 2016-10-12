@@ -21,7 +21,7 @@ By showing appreciation for people taking the time to give compliments, you're e
 
 ## "You're Welcome" vs. "No Problem"
 
-There is a [lot of debate around whether one should use "you're welcome" or "no problem"][linguistic-view] in response to someone saying thanks. Even [semantically][semantic], the phrases are complex and layered with undertones. For most people, either phrase will be perfectly acceptable. In community management, saying ["you're welcome" goes that one extra mile][case-against] that using "no problem" does not. Not only is it saying that they were welcome to your assistance, whatever form that took, it also implies that they are welcome to be there, welcomed into the community. The more positivity you can create, the better off your community will be.
+There is a [lot of debate around whether one should use "you're welcome" or "no problem"][linguistic] in response to someone saying thanks. Even [semantically][semantic], the phrases are complex and layered with undertones. For most people, either phrase will be perfectly acceptable. In community management, saying ["you're welcome" goes that one extra mile][case-against] that using "no problem" does not. Not only is it saying that they were welcome to your assistance, whatever form that took, it also implies that they are welcome to be there, welcomed into the community. The more positivity you can create, the better off your community will be.
 
 [case-against]: http://www.npr.org/sections/13.7/2015/02/01/383060338/a-case-against-the-phrase-no-problem
 [linguistic]: http://allthingslinguistic.com/post/124189121619/no-problem-vs-youre-welcome
