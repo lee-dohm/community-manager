@@ -7,7 +7,7 @@
 * [Up with which I shall not put](taking-care.md) - Taking care of yourself and the community
 * [Being humble and gracious](being-humble-and-gracious.md) - How to be a good host
 * [Open Source](open-source-support.md) - How it is different from normal customer support
-* The X/Y Problem - How to get at the real problem underneath it all
+* [The X/Y Problem](the-x-y-problem.md) - How to get at the real problem underneath it all
 
 ## Moderation
 
