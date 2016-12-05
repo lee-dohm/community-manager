@@ -8,6 +8,10 @@ This repository contains the [lesson plan](lesson-plan.md) and curriculum for th
 
 * [The Benjamin Franklin Effect](https://www.brainpickings.org/2014/02/20/the-benjamin-franklin-effect-mcraney/)
 
+### Lee Dohm
+
+* [Conversational Aikido - The Presentation](https://speakerdeck.com/leedohm/conversational-aikido-1) - My thoughts after being the Atom message board moderator for a little over a year (see the [Conversational Aikido article](conversational-aikido.md) for the latest version of the core concept)
+
 ### Jeff Atwood and Discourse
 
 * [Discourse Trust Levels - What Do They Do](https://meta.discourse.org/t/what-do-user-trust-levels-do/4924)
