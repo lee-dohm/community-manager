@@ -21,7 +21,7 @@ There are times when people post clearly offensive things with no redeeming valu
 1. Make a record of the offense &mdash; it isn't often that you have to refer back to what _exactly_ was said or posted but when you need to, you'll be glad you have it
 1. Issue a warning or statement that this violates the rules with a link to those rules &mdash; this is a warning to others as much as it is to the offender
 1. Delete the content itself
-1. Take action against the user, if necessary
+1. [Take action](taking-out-the-trash.md) against the user, if necessary
 
 ### Deleting Part of a Post
 
@@ -32,11 +32,15 @@ Your steps are:
 1. Make a record of the offense
 1. Issue a warning that this violates the rules with a link to those rules
 1. Excise the content with a note that it has been edited by a moderator
-1. Take action against the user, if necessary
+1. [Take action](taking-out-the-trash.md) against the user, if necessary
 
 ## Editing Content
 
-### Making Issues and Pull Requests Clearer
+For violations of the community's code of conduct, you shouldn't edit content other than specifically deleting part of a post outlined above. There _are_ times outside of violations of the code of conduct when you can edit posts however. They mostly revolve around when those posts themselves are contributions to a shared project.
+
+* Making Issues or Pull Requests clearer
+* Editing wiki content
+* Fixing or updating community blog posts
 
 [ministry-of-truth]: https://en.wikipedia.org/wiki/Ministries_of_Nineteen_Eighty-Four#Ministry_of_Truth
 [real-ultimate-power]: http://www.realultimatepower.net/
