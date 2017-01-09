@@ -13,6 +13,11 @@
 
 * [The Ministry of Truth](the-ministry-of-truth.md) - When to edit or delete posts or lock threads
 * Taking Out the Trash - When to warn and ban people
+* [Why Not to Talk About Why](why-not-to-talk-about-why.md)
+
+### Personality Types
+
+* [Trolling Defined](trolling-defined.md)
 
 ## Triage
 
