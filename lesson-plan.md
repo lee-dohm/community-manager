@@ -1,5 +1,10 @@
 # Lesson Plan
 
+## Rules of Thumb
+
+* Not everything deserves a response
+* Of the things that do merit a response, virtually none of them need a response **right now**
+
 ## General Communication
 
 * [Conversational Aikido](conversational-aikido.md) - Directing the flow of conversation
