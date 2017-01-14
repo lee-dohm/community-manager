@@ -7,6 +7,7 @@ This repository contains the [lesson plan](lesson-plan.md) and curriculum for th
 ### General
 
 * [The Benjamin Franklin Effect](https://www.brainpickings.org/2014/02/20/the-benjamin-franklin-effect-mcraney/)
+* [Reddit post about propaganda](https://np.reddit.com/r/AdviceAnimals/comments/5ntjh2/all_this_fake_news/dceozzo/) - The quote from Sartre applies directly to trolls
 
 ### Lee Dohm
 
