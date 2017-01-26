@@ -79,4 +79,4 @@ The idea here is for the mentee to contribute something significant to the commu
 
 ## Copyright
 
-All material in this project is copyright &copy; 2016 by [Lee Dohm](http://www.lee-dohm.com). All Rights Reserved.
+All material in this project is copyright &copy; 2016-2017 by [Lee Dohm](http://www.lee-dohm.com). All Rights Reserved.
