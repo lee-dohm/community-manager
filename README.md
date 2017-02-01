@@ -60,6 +60,12 @@ The idea here is for the mentee to contribute something significant to the commu
 
 * [The Benjamin Franklin Effect](https://www.brainpickings.org/2014/02/20/the-benjamin-franklin-effect-mcraney/)
 * [Reddit post about propaganda](https://np.reddit.com/r/AdviceAnimals/comments/5ntjh2/all_this_fake_news/dceozzo/) - The quote from Sartre applies directly to trolls
+* [The Neuroscience and Psychology of Open Source](https://speakerdeck.com/elizabethn/the-neuroscience-and-psychology-of-open-source) by @elizabethn
+
+### Books
+
+* [Haters: Harassment, Abuse and Violence Online](https://www.amazon.com/Haters-Harassment-Abuse-Violence-Online/dp/1612347665/ref=sr_1_2?ie=UTF8&qid=1485974264&sr=8-2&keywords=haters)
+* [The Internet of Garbage](https://www.amazon.com/Internet-Garbage-Sarah-Jeong-ebook/dp/B011JAV030/ref=sr_1_1?ie=UTF8&qid=1485974338&sr=8-1&keywords=internet+of+garbage)
 
 ### Lee Dohm
 
