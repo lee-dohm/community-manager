@@ -58,6 +58,7 @@ The idea here is for the mentee to contribute something significant to the commu
 
 ### General
 
+* [Being rude to your child's doctor could lead to worse care](http://news.ufl.edu/articles/2017/01/being-rude-to-your-childs-doctor-could-lead-to-worse-care.php) - Rudeness has real costs
 * [The Benjamin Franklin Effect](https://www.brainpickings.org/2014/02/20/the-benjamin-franklin-effect-mcraney/)
 * [Reddit post about propaganda](https://np.reddit.com/r/AdviceAnimals/comments/5ntjh2/all_this_fake_news/dceozzo/) - The quote from Sartre applies directly to trolls
 * [The Neuroscience and Psychology of Open Source](https://speakerdeck.com/elizabethn/the-neuroscience-and-psychology-of-open-source) by @elizabethn
