@@ -8,13 +8,15 @@ Speaking with the public in an official capacity can be a bit risky because peop
 
 If you give a date or time, people will not read anything else other than the date or time and believe it to be a hard commitment. People don't even know they're doing it a lot of the time. They're busy and they read everything you said but all that is important to them is the date, so that's all they remember. [Apple](http://www.apple.com) does this with virtually all product launches. They announce a product only when it can be pre-ordered or purchased almost immediately. It is essentially an extension of the old adage "underpromise and overdeliver".
 
-People are tempted to give dates when they believe them to be solid. The problem is that these beliefs are based on the best of intentions, they're the dates that you will hit only if everything goes according to plan. So then people are tempted to give a date with some extra padding. No matter what date you give, it is possible to miss it. A manager I once had was concerned because I occasionally missed dates I had committed to when estimating projects. This was a problem for him, so we had a talk and he told me he only wanted dates that I could "100% guarantee". I told him that I couldn't do that because I can't predict the future. He wouldn't relent, so I told him "10 years. I can guarantee that, unless I die, I can deliver this functionality in 10 years or less." He was less than enthused :trollface:
+People are tempted to give dates when they believe them to be solid. The problem is that these beliefs are based on the best of intentions, they're the dates that you will hit only if everything goes according to plan. So then people are tempted to give a date with some extra padding. No matter what date you give, it is possible to miss it.
+
+A manager I once had was concerned because I occasionally missed dates I had committed to when estimating projects. This was a problem for him, so we had a talk and he told me he only wanted dates that I could "100% guarantee". I told him that I couldn't do that because I can't predict the future. He wouldn't relent, so I told him "10 years. I can guarantee that, unless I die, I can deliver this functionality in 10 years or less." He was less than enthused :trollface:
 
 The only date you can't miss is one you don't commit to, so just don't communicate dates ... ever.
 
 ### You Can Tie Features to Versions Rather Than Dates
 
-One technique I commonly use with Atom is I will say that "X is currently scheduled to go out with version Y", where X is a change, feature or bug fix. But I will _only_ say this when the change, feature or bug fix is already committed to `master`. This is a much more realistic commitment and it gets around people's irrationality associated with dates.
+One technique I commonly use with Atom is I will say that "X is currently scheduled to go out with version Y", where X is a change, feature or bug fix. Of course, since I never give a date when version Y will be available, it gives people an idea of how long they will have to wait without ever committing to a specific date. But I will _only_ say this when the change, feature or bug fix is already committed to `master`. This is a much more realistic commitment and it gets around people's irrationality associated with dates.
 
 ## Be Clear When Speaking Only for Yourself
 
