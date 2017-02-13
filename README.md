@@ -18,6 +18,7 @@ This repository contains the [lesson plan](#lesson-plan) and curriculum for the 
 * [Open Source](open-source-support.md) - How it is different from normal customer support
 * [The X/Y Problem](the-x-y-problem.md) - How to get at the real problem underneath it all
 * [Setting Expectations](setting-expectations.md) - Communicating the difference between desires, hopes, plans and facts
+* [Voting System Flaws](voting-system-flaws.md) - Why Atom doesn't have an Issue or PR voting system
 
 ### Moderation
 
