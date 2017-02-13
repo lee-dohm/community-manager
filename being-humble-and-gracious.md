@@ -35,7 +35,7 @@ You will make mistakes. Your team will make mistakes. Everyone does. It is impor
 
 A problem is that, at least in the United States, the most common apologetic phrase, "I'm sorry", has taken on an implicit admission of guilt in the last few decades. This is a common exchange:
 
-> **Person A:** I'm sorry about that
+> **Person A:** I'm sorry about that<br/>
 > **Person B:** Why? It wasn't your fault
 
-So when it comes time to issue a _mea culpa_, using the phrase "I apologize" is preferable.
+So when it comes time to issue a _mea culpa_, using the phrase "I apologize" is preferable, even when you are the guilty party. It is just clearer what you mean to say.
