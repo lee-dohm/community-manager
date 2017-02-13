@@ -29,7 +29,7 @@ There is a [lot of debate around whether one should use "you're welcome" or "no 
 
 ## Handling Mistakes
 
-You will make mistakes. Your team will make mistakes. Everyone does. It is important to own up to those mistakes quickly and sincerely. Even when the problem was not caused by you, [being decisive and taking responsibility can make or break a community](](http://time.com/3423136/tylenol-deaths-1982/)).
+You will make mistakes. Your team will make mistakes. Everyone does. It is important to own up to those mistakes quickly and sincerely. Even when the problem was not caused by you, [being decisive and taking responsibility can make or break a community](http://time.com/3423136/tylenol-deaths-1982/).
 
 ### "I Apologize" vs. "I'm Sorry"
 
