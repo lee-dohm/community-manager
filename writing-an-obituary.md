@@ -6,4 +6,4 @@ A memorial post should contain the following:
 
 1. A statement of the facts - the person who passed away, how, when, etc
 1. What did they contribute? - a few highlights of why they will be missed
-1. What can people do? - often people will want to do something for the deceased's family, even if it is small like send flowers or contribute to a charity
+1. What can people do? - because people will have feelings, often they will want to _do_ something. This helps them process those feelings. Having something they can do (that is approved by the family of the deceased), such as sending flowers or donating to a charity, will help.
