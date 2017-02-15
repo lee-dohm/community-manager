@@ -64,6 +64,7 @@ The idea here is for the mentee to contribute something significant to the commu
 * [The Benjamin Franklin Effect](https://www.brainpickings.org/2014/02/20/the-benjamin-franklin-effect-mcraney/)
 * [Reddit post about propaganda](https://np.reddit.com/r/AdviceAnimals/comments/5ntjh2/all_this_fake_news/dceozzo/) - The quote from Sartre applies directly to trolls
 * [The Neuroscience and Psychology of Open Source](https://speakerdeck.com/elizabethn/the-neuroscience-and-psychology-of-open-source) by @elizabethn
+* [Bartle Taxonomy of Player Types](https://en.wikipedia.org/wiki/Bartle_taxonomy_of_player_types) - While it is specifically about people who play online games, a lot can be gleaned from the categorization of motivations approaching open-source projects
 
 ### Books
 
