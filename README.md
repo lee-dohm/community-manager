@@ -68,8 +68,9 @@ The idea here is for the mentee to contribute something significant to the commu
 
 ### Books
 
-* [Haters: Harassment, Abuse and Violence Online](https://www.amazon.com/Haters-Harassment-Abuse-Violence-Online/dp/1612347665/ref=sr_1_2?ie=UTF8&qid=1485974264&sr=8-2&keywords=haters)
-* [The Internet of Garbage](https://www.amazon.com/Internet-Garbage-Sarah-Jeong-ebook/dp/B011JAV030/ref=sr_1_1?ie=UTF8&qid=1485974338&sr=8-1&keywords=internet+of+garbage)
+* [Haters: Harassment, Abuse and Violence Online](https://www.amazon.com/Haters-Harassment-Abuse-Violence-Online/dp/1612347665/)
+* [The Internet of Garbage](https://www.amazon.com/Internet-Garbage-Sarah-Jeong-ebook/dp/B011JAV030/)
+* [The Smart Girl's Guide to Privacy](https://www.amazon.com/Smart-Girls-Guide-Privacy-Practical-ebook/dp/B013HA1V4S/)
 
 ### Lee Dohm
 
