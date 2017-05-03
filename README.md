@@ -1,13 +1,13 @@
-# Community Manager Apprenticeship
+# Community Management and Moderation
 
-This repository contains the [lesson plan](#lesson-plan) and curriculum for the Atom Community Manager apprenticeship project.
+This repository contains my thoughts, lessons, guidelines and learnings around community management and moderation.
 
 ## Rules of Thumb
 
 * Not everything deserves a response
 * Of the things that do merit a response, virtually none of them need a response **right now**
 
-## Lesson Plan
+## Articles
 
 ### General Communication
 
