@@ -66,6 +66,7 @@ The idea here is for the mentee to contribute something significant to the commu
 * [The Neuroscience and Psychology of Open Source](https://speakerdeck.com/elizabethn/the-neuroscience-and-psychology-of-open-source) by @elizabethn
 * [Bartle Taxonomy of Player Types](https://en.wikipedia.org/wiki/Bartle_taxonomy_of_player_types) - While it is specifically about people who play online games, a lot can be gleaned from the categorization of motivations approaching open-source projects
 * [The Secret Rules of the Internet](https://www.theverge.com/2016/4/13/11387934/internet-moderator-history-youtube-facebook-reddit-censorship-free-speech) - How moderation works at the large content companies: Google, Twitter, Facebook, etc
+* [Maintainer's Guide to Staying Positive](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive) - Don't let the trolls get you down! Use this reference to avoid open-source burnout and keep doing what you love: writing code!
 
 ### Books
 
