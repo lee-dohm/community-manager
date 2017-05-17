@@ -42,20 +42,6 @@ This repository contains my thoughts, lessons, guidelines and learnings around c
 * Writing Good Documentation
 * Ship It! - Don't let perfect be the enemy of good
 
-### Testing
-
-* Troubleshooting
-* How to reproduce a problem
-
-### Coding/Architecture
-
-* HTML, CSS and JavaScript - Why do we need three technologies to do one job?
-* Clients and Servers - Division of labor and why it is a good thing
-
-### Final Project
-
-The idea here is for the mentee to contribute something significant to the community of their own design and in line with their particular talents.
-
 ## Other Reading
 
 ### General
