@@ -30,6 +30,10 @@ This repository contains my thoughts, lessons, guidelines and learnings around c
 
 * [Trolling Defined](trolling-defined.md)
 
+### Social Networks
+
+* [The Three Types of Social Network Systems](the-three-types-of-social-network-systems.md) - When building a social network service, it is important to understand what type of network you are building
+
 ### Triage
 
 * Bugs, Enhancements, Feedback and Questions
