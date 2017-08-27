@@ -4,7 +4,6 @@ These are my personal guidelines that I've built up while dealing with a rather 
 
 ## When to Ban
 
-* You've identified a [troll](trolling-defined.md)
 * Repeat offenders - people should never get a third warning
 * Flagrant violations of public decency &mdash; spam, prurient content, blatantly insulting or harassing, _any_ sort of threat
 
