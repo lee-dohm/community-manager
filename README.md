@@ -26,9 +26,9 @@ This repository contains my thoughts, lessons, guidelines and learnings around c
 * [Taking Out the Trash](taking-out-the-trash.md) - When to warn and ban people
 * [Why Not to Talk About Why](why-not-to-talk-about-why.md)
 
-### Personality Types
+### Destructive Behavior
 
-* [Trolling Defined](trolling-defined.md)
+* [Terminology](terminology.md)
 
 ### Triage
 
