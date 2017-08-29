@@ -30,6 +30,10 @@ This repository contains my thoughts, lessons, guidelines and learnings around c
 
 * [Terminology](terminology.md)
 
+#### Examples
+
+* [Overwatch Griefer](https://us.battle.net/forums/en/overwatch/topic/20758687468?page=4#post-72)
+
 ### Triage
 
 * Bugs, Enhancements, Feedback and Questions
