@@ -14,6 +14,8 @@ A manager I once had was concerned because I occasionally missed dates I had com
 
 The only date you can't miss is one you don't commit to, so just don't communicate dates ... ever.
 
+* [Reaction to the slip of a promised release date to a game update](https://www.epicgames.com/fortnite/forums/fortnite-discussion/general-discussion/53232-survive-the-storm-update-delay)
+
 ### You Can Tie Features to Versions Rather Than Dates
 
 One technique I commonly use with Atom is I will say that "X is currently scheduled to go out with version Y", where X is a change, feature or bug fix. Of course, since I never give a date when version Y will be available, it gives people an idea of how long they will have to wait without ever committing to a specific date. But I will _only_ say this when the change, feature or bug fix is already committed to `master`. This is a much more realistic commitment and it gets around people's irrationality associated with dates.
