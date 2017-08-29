@@ -14,6 +14,20 @@ A manager I once had was concerned because I occasionally missed dates I had com
 
 The only date you can't miss is one you don't commit to, so just don't communicate dates ... ever.
 
+### Reactions
+
+[Reactions to the slip of a promised release date to a free game update](https://www.epicgames.com/fortnite/forums/fortnite-discussion/general-discussion/53232-survive-the-storm-update-delay):
+
+> Its amazing you detect the stab probs 1 day before the release
+
+> Why delay the notes if you have them ready? You told the community today for patch notes and the patch notes don't have any stability issues
+
+> Men with no trustable words ... Yeah this game is dead before he officially launch; The community will die so hard now  You played with our hopes and trust and you EPIC failed
+
+> its just dumb just because you got a bug in the game you didnt show us the balance and fixing patchnotes.....-.-
+
+> Give us the notes. You made this event so vague enough as it is. I push this game like its the last game on earth. For the love of all the old gods and the new give us the broad strokes at LEAST! There is no stability issue with the notes themselves. I want to know if im playing hooky or not from work for this patch dangit!
+
 ### You Can Tie Features to Versions Rather Than Dates
 
 One technique I commonly use with Atom is I will say that "X is currently scheduled to go out with version Y", where X is a change, feature or bug fix. Of course, since I never give a date when version Y will be available, it gives people an idea of how long they will have to wait without ever committing to a specific date. But I will _only_ say this when the change, feature or bug fix is already committed to `master`. This is a much more realistic commitment and it gets around people's irrationality associated with dates.
