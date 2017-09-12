@@ -64,6 +64,7 @@ This repository contains my thoughts, lessons, guidelines and learnings around c
 * [Haters: Harassment, Abuse and Violence Online](https://www.amazon.com/Haters-Harassment-Abuse-Violence-Online/dp/1612347665/)
 * [The Internet of Garbage](https://www.amazon.com/Internet-Garbage-Sarah-Jeong-ebook/dp/B011JAV030/)
 * [The Smart Girl's Guide to Privacy](https://www.amazon.com/Smart-Girls-Guide-Privacy-Practical-ebook/dp/B013HA1V4S/)
+* [Crash Override](https://www.amazon.com/Crash-Override-Gamergate-Destroyed-Against-ebook/dp/B01N4JZ9I2/)
 
 ### Lee Dohm
 
