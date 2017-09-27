@@ -50,6 +50,7 @@ This repository contains my thoughts, lessons, guidelines and learnings around c
 
 ### General
 
+* [How "Good Intent" Undermines Diversity and Inclusion](https://thebias.com/2017/09/26/how-good-intent-undermines-diversity-and-inclusion/)
 * [Being rude to your child's doctor could lead to worse care](http://news.ufl.edu/articles/2017/01/being-rude-to-your-childs-doctor-could-lead-to-worse-care.php) - Rudeness has real costs
 * [The Benjamin Franklin Effect](https://www.brainpickings.org/2014/02/20/the-benjamin-franklin-effect-mcraney/)
 * [Reddit post about propaganda](https://np.reddit.com/r/AdviceAnimals/comments/5ntjh2/all_this_fake_news/dceozzo/) - The quote from Sartre applies directly to trolls
