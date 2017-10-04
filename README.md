@@ -50,6 +50,7 @@ This repository contains my thoughts, lessons, guidelines and learnings around c
 
 ### General
 
+* [The Petrie Number](http://blog.ian.gent/2013/10/the-petrie-multiplier-why-attack-on.html) - how minorities experience exponentially more discrimination even when the prevalence of prejudice is fixed across a population
 * [We Don't Do That Here](http://thagomizer.com/blog/2017/09/29/we-don-t-do-that-here.html)
 * [How "Good Intent" Undermines Diversity and Inclusion](https://thebias.com/2017/09/26/how-good-intent-undermines-diversity-and-inclusion/)
 * [Being rude to your child's doctor could lead to worse care](http://news.ufl.edu/articles/2017/01/being-rude-to-your-childs-doctor-could-lead-to-worse-care.php) - Rudeness has real costs
