@@ -24,7 +24,7 @@ The only date you can't miss is one you don't commit to, so just don't communica
 
     > According to the same topic, this issue will be fixed on the January’s release of Atom.
 
-1. [Volunteer maintainer reiterates that it was a guess](https://discuss.atom.io/t/bad-text-rendering-in-atom-because-of-freetype-library/49311/5?u=leedohm)
+1. [Another volunteer maintainer reiterates that it was a guess](https://discuss.atom.io/t/bad-text-rendering-in-atom-because-of-freetype-library/49311/5?u=leedohm)
 
     > This is a very optimistic guess. The reality is that we can not know when we will release a version of Atom based on Chromium 62. It’s our policy to never promise dates on when things will be fixed, merged, or shipped until it _is_ fixed, merged, or shipped, respectively.
 
