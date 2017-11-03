@@ -14,9 +14,21 @@ A manager I once had was concerned because I occasionally missed dates I had com
 
 The only date you can't miss is one you don't commit to, so just don't communicate dates ... ever.
 
+### Example of Irrationality
+
+1. [Volunteer maintainer provides a "very optimistic ... guess"](https://github.com/atom/atom/issues/15737#issuecomment-339586666)
+
+    > We have no roadmap to my knowledge, but even if I'm being very optimistic (and assuming a backport is not going to happen), this is unlikely to happen any time soon. I'd guess maybe January.
+
+1. [Community member takes it as a promise](https://discuss.atom.io/t/bad-text-rendering-in-atom-because-of-freetype-library/49311/4?u=leedohm)
+
+    > According to the same topic, this issue will be fixed on the January’s release of Atom.
+
 ### Reactions
 
-[Reactions to the slip of a promised release date to a free game update](https://www.epicgames.com/fortnite/forums/fortnite-discussion/general-discussion/53232-survive-the-storm-update-delay):
+#### Reactions to the slip of a promised release date for a free game update
+
+* https://www.epicgames.com/fortnite/forums/fortnite-discussion/general-discussion/53232-survive-the-storm-update-delay
 
 > Its amazing you detect the stab probs 1 day before the release
 
