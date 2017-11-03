@@ -6,7 +6,7 @@ Speaking with the public in an official capacity can be a bit risky because peop
 
 ... or ETAs. ... or work estimates. ... or anything relating to time, really :laughing:
 
-If you give a date or time, people will not read anything else other than the date or time and believe it to be a hard commitment. People don't even know they're doing it a lot of the time. They're busy and they read everything you said but all that is important to them is the date, so that's all they remember. [Apple](http://www.apple.com) does this with virtually all product launches. They announce a product only when it can be pre-ordered or purchased almost immediately. It is essentially an extension of the old adage "underpromise and overdeliver".
+If you give a date or time, [people will not read anything else other than the date or time and assume it to be a hard commitment.](#example-of-irrationality) People don't even know they're doing it a lot of the time. They're busy and they read everything you said but all that is important to them is the date, so that's all they remember. [Apple](http://www.apple.com) does this with virtually all product launches. They announce a product only when it can be pre-ordered or purchased almost immediately. It is essentially an extension of the old adage "underpromise and overdeliver".
 
 People are tempted to give dates when they believe them to be solid. The problem is that these beliefs are based on the best of intentions, they're the dates that you will hit only if everything goes according to plan. So then people are tempted to give a date with some extra padding. No matter what date you give, it is possible to miss it.
 
@@ -23,6 +23,14 @@ The only date you can't miss is one you don't commit to, so just don't communica
 1. [Community member takes it as a promise](https://discuss.atom.io/t/bad-text-rendering-in-atom-because-of-freetype-library/49311/4?u=leedohm)
 
     > According to the same topic, this issue will be fixed on the January’s release of Atom.
+
+1. [Volunteer maintainer reiterates that it was a guess](https://discuss.atom.io/t/bad-text-rendering-in-atom-because-of-freetype-library/49311/5?u=leedohm)
+
+    > This is a very optimistic guess. The reality is that we can not know when we will release a version of Atom based on Chromium 62. It’s our policy to never promise dates on when things will be fixed, merged, or shipped until it _is_ fixed, merged, or shipped, respectively.
+
+1. [Community member confirms they read only the date and assumed the rest](https://discuss.atom.io/t/bad-text-rendering-in-atom-because-of-freetype-library/49311/6?u=leedohm)
+
+    > OK, I didn’t know about the project’s policy; this release date is just something I quickly saw while looking for my problem’s solution 🙂
 
 ### Reactions
 
