@@ -89,4 +89,4 @@ This repository contains my thoughts, lessons, guidelines and learnings around c
 
 ## Copyright
 
-All material in this project is copyright &copy; 2016-2017 by [Lee Dohm](http://www.lee-dohm.com). All Rights Reserved.
+All material in this project is copyright &copy; 2016-2018 by [Lee Dohm](http://www.lee-dohm.com). All Rights Reserved.
