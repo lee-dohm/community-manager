@@ -50,6 +50,7 @@ This repository contains my thoughts, lessons, guidelines and learnings around c
 
 ### General
 
+* [25% of a group is what is required to cause a shift in a social norm](https://www.asc.upenn.edu/news-events/news/research-finds-tipping-point-large-scale-social-change) &mdash; to me, this means that allowing destructive activities to grow to that point is when a community can be lost to anarchy
 * [Wikipedia article on tactics used by fringe or pseudoscience advocates](https://en.wikipedia.org/wiki/Wikipedia:Why_Wikipedia_cannot_claim_the_earth_is_not_flat)
 * [The Petrie Number](http://blog.ian.gent/2013/10/the-petrie-multiplier-why-attack-on.html) - how minorities experience exponentially more discrimination even when the prevalence of prejudice is fixed across a population
 * [We Don't Do That Here](http://thagomizer.com/blog/2017/09/29/we-don-t-do-that-here.html)
