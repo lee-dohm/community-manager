@@ -64,6 +64,10 @@ This repository contains my thoughts, lessons, guidelines and learnings around c
 * [Maintainer's Guide to Staying Positive](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive) - Don't let the trolls get you down! Use this reference to avoid open-source burnout and keep doing what you love: writing code!
 * [How to be a human being in the comments: a refresher](https://www.engadget.com/2017/05/01/engadget-commenting-policy/) - From https://www.engadget.com - A very detailed and human description of how to not be a jerk in the comments
 
+### Videos
+
+* [Politeness or clarity?](https://www.youtube.com/watch?v=YYzt71o2IvQ) - From [Fun, Fun, Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
+
 ### Books
 
 * [Haters: Harassment, Abuse and Violence Online](https://www.amazon.com/Haters-Harassment-Abuse-Violence-Online/dp/1612347665/)
