@@ -70,6 +70,7 @@ This repository contains my thoughts, lessons, guidelines and learnings around c
 
 ### Books
 
+* [Building Successful Online Communities: Evidence-based Social Design](https://www.amazon.com/Building-Successful-Online-Communities-Evidence-Based-ebook/dp/B007RPF10U/)
 * [Haters: Harassment, Abuse and Violence Online](https://www.amazon.com/Haters-Harassment-Abuse-Violence-Online/dp/1612347665/)
 * [The Internet of Garbage](https://www.amazon.com/Internet-Garbage-Sarah-Jeong-ebook/dp/B011JAV030/)
 * [The Smart Girl's Guide to Privacy](https://www.amazon.com/Smart-Girls-Guide-Privacy-Practical-ebook/dp/B013HA1V4S/)
