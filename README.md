@@ -50,6 +50,7 @@ This repository contains my thoughts, lessons, guidelines and learnings around c
 
 ### General
 
+* [I Fundamentally Believe That My Time at Reddit Made the World a Worse Place](http://nymag.com/intelligencer/2018/04/dan-mccomas-reddit-product-svp-and-imzy-founder-interview.html)
 * [Women Making Science Videos on YouTube Face Hostile Comments](https://www.nytimes.com/2018/07/13/science/youtube-science-women.html)
 * [25% of a group is what is required to cause a shift in a social norm](https://www.asc.upenn.edu/news-events/news/research-finds-tipping-point-large-scale-social-change) &mdash; to me, this means that allowing destructive activities to grow to that point is when a community can be lost to anarchy
 * [Wikipedia article on tactics used by fringe or pseudoscience advocates](https://en.wikipedia.org/wiki/Wikipedia:Why_Wikipedia_cannot_claim_the_earth_is_not_flat)
