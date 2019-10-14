@@ -39,3 +39,7 @@ A problem is that, at least in the United States, the most common apologetic phr
 > **Person B:** Why? It wasn't your fault
 
 So when it comes time to issue a _mea culpa_, using the phrase "I apologize" is preferable, even when you are the guilty party. It is just clearer what you mean to say.
+
+## Other Reading
+
+* [Hypo-egoic non-entitlement is a central feature of humility](https://www.psypost.org/2019/10/new-psychology-study-identifies-hypo-egoic-nonentitlement-as-a-central-feature-of-humility-54657)
