@@ -67,6 +67,11 @@ This repository contains my thoughts, lessons, guidelines and learnings around c
 * [Maintainer's Guide to Staying Positive](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive) - Don't let the trolls get you down! Use this reference to avoid open-source burnout and keep doing what you love: writing code!
 * [How to be a human being in the comments: a refresher](https://www.engadget.com/2017/05/01/engadget-commenting-policy/) - From https://www.engadget.com - A very detailed and human description of how to not be a jerk in the comments
 
+### Open Source
+
+* [Trip report by creator of Fossil to the first GitHub Open Source Advisory Council meeting](https://fossil-scm.org/forum/forumpost/536ce98d85)
+    * [Fossil](https://fossil-scm.org/fossil/doc/trunk/www/index.wiki) is a simple, high-reliability, distributed software configuration management system designed to be a self-contained source control server including bug-tracking, wiki, forum, and technotes, among many other features.
+
 ### Videos
 
 * [Politeness or clarity?](https://www.youtube.com/watch?v=YYzt71o2IvQ) - From [Fun, Fun, Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
