@@ -52,6 +52,19 @@ The only date you can't miss is one you don't commit to, so just don't communica
 
 One technique I commonly use with Atom is I will say that "X is currently scheduled to go out with version Y", where X is a change, feature or bug fix. Of course, since I never give a date when version Y will be available, it gives people an idea of how long they will have to wait without ever committing to a specific date. But I will _only_ say this when the change, feature or bug fix is already committed to `master`. This is a much more realistic commitment and it gets around people's irrationality associated with dates.
 
+### How Atom Communicated Release Dates
+
+When I was [Atom's](https://atom.io) Community Manager, we didn't have a set release schedule. We did our best to release on the second Tuesday of every month, but if we were unable to for whatever reason, we would wait until the next month. We never told anyone that wasn't a maintainer that this was our system, the only thing we communicated outwardly is that we would release new versions of Atom when they were ready.
+
+This system had several positive effects:
+
+* People active in the community over a period of time would get used to the system and know when to look forward to the next release
+* People who weren't regularly active in the community would still get pleasantly surprised periodically with new releases
+* Because there was no promised release schedule, people wouldn't feel entitled to a release every month and wouldn't complain if one didn't arrive
+* If people opened an issue asking when the next release would be or for us to post a schedule, we could easily close it stating that we only publish new releases when they're ready and, as a policy, we don't pre-announce releases
+
+Additionally, we never released outside of that cadence because if we did, even only once or twice a year, that would subtly train the community to expect that we could release any time and then they would start pestering us for when the next release would be.
+
 ## Be Clear When Speaking Only for Yourself
 
 When I was still only a volunteer on the Atom project, [I had a canned disclaimer](https://discuss.atom.io/t/why-is-atom-so-slow/11376/13?u=leedohm) that I would insert in some messages or posts:
