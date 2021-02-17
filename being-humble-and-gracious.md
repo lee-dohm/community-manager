@@ -31,6 +31,14 @@ There is a [lot of debate around whether one should use "you're welcome" or "no 
 
 You will make mistakes. Your team will make mistakes. Everyone does. It is important to own up to those mistakes quickly and sincerely. Even when the problem was not caused by you, [being decisive and taking responsibility can make or break a community](http://time.com/3423136/tylenol-deaths-1982/).
 
+It is also **very important** to not follow the current trend of [disingenuous apologies](https://twitter.com/DrJessicaLanger/status/1359006653836742656/photo/1). An apology should contain two things and an optional third:
+
+1. A statement of what was done wrong
+1. An _unequivocal_ statement of regret
+1. (optional) What you're doing or going to do to fix the problem
+
+Any more than this weakens and quite possibly completely invalidates your apology, at least in the eyes of the people to whom you're attempting to apologize.
+
 ### "I Apologize" vs. "I'm Sorry"
 
 A problem is that, at least in the United States, the most common apologetic phrase, "I'm sorry", has taken on an implicit admission of guilt in the last few decades. This is a common exchange:
