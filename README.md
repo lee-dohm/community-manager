@@ -67,6 +67,7 @@ This repository contains my thoughts, lessons, guidelines and learnings around c
 * [The Secret Rules of the Internet](https://www.theverge.com/2016/4/13/11387934/internet-moderator-history-youtube-facebook-reddit-censorship-free-speech) - How moderation works at the large content companies: Google, Twitter, Facebook, etc
 * [Maintainer's Guide to Staying Positive](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive) - Don't let the trolls get you down! Use this reference to avoid open-source burnout and keep doing what you love: writing code!
 * [How to be a human being in the comments: a refresher](https://www.engadget.com/2017/05/01/engadget-commenting-policy/) - From https://www.engadget.com - A very detailed and human description of how to not be a jerk in the comments
+* [Utopia Inc](https://aeon.co/essays/like-start-ups-most-intentional-communities-fail-why) - Article about how communes are similar to startups ... and, in my opinion, open source projects
 
 ### Open Source
 
