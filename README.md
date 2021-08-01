@@ -50,6 +50,7 @@ This repository contains my thoughts, lessons, guidelines and learnings around c
 
 ### General
 
+* [How many Pepe the Frog emoji is too many?](https://twitter.com/gamesbymanuel/status/1421454592605306885) &mdash; A Twitter thread
 * [Woman in infosec is harassed for posting selfie in bikini on Twitter](https://www.vice.com/en/article/7kvwgb/cybersecurity-workers-flood-twitter-with-bikini-pics-to-protest-harassment)
 * [Tolerance is not a moral precept](https://extranewsfeed.com/tolerance-is-not-a-moral-precept-1af7007d6376)
 * [I Fundamentally Believe That My Time at Reddit Made the World a Worse Place](http://nymag.com/intelligencer/2018/04/dan-mccomas-reddit-product-svp-and-imzy-founder-interview.html)
