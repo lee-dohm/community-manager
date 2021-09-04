@@ -34,6 +34,10 @@ This repository contains my thoughts, lessons, guidelines and learnings around c
 
 * [Overwatch Griefer](https://us.battle.net/forums/en/overwatch/topic/20758687468?page=4#post-72)
 
+### Mental Health
+
+* [A fellow open source mantainer's experience with burnout](open-source-and-burnout.md)
+
 ### Triage
 
 * Bugs, Enhancements, Feedback and Questions
