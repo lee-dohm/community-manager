@@ -54,6 +54,7 @@ This repository contains my thoughts, lessons, guidelines and learnings around c
 
 ### General
 
+* [Why racist/sexist/ableist jokes aren't acceptable](https://twitter.com/keystonelemur/status/1443280163203125248) &mdash; by [Brandon Weaver](https://twitter.com/keystonelemur)
 * [Why "assume good intent" harms inclusion](https://twitter.com/tiffani/status/1368643215914508288) &mdash; by [Tiffani Ashley Bell](https://twitter.com/tiffani)
 * [How many Pepe the Frog emoji is too many?](https://twitter.com/gamesbymanuel/status/1421454592605306885) &mdash; A Twitter thread
 * [Woman in infosec is harassed for posting selfie in bikini on Twitter](https://www.vice.com/en/article/7kvwgb/cybersecurity-workers-flood-twitter-with-bikini-pics-to-protest-harassment)
