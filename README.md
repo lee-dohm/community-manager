@@ -54,6 +54,9 @@ This repository contains my thoughts, lessons, guidelines and learnings around c
 
 ### General
 
+* [The case for removing abuse-enabling language from the Ruby mailing list](https://twitter.com/JakeHerrington/status/1443286841533374469) &mdash; by [Jacob Herrington](https://twitter.com/JakeHerrington)
+* [Why racist/sexist/ableist jokes aren't acceptable](https://twitter.com/keystonelemur/status/1443280163203125248) &mdash; by [Brandon Weaver](https://twitter.com/keystonelemur)
+* [Why "assume good intent" harms inclusion](https://twitter.com/tiffani/status/1368643215914508288) &mdash; by [Tiffani Ashley Bell](https://twitter.com/tiffani)
 * [How many Pepe the Frog emoji is too many?](https://twitter.com/gamesbymanuel/status/1421454592605306885) &mdash; A Twitter thread
 * [Woman in infosec is harassed for posting selfie in bikini on Twitter](https://www.vice.com/en/article/7kvwgb/cybersecurity-workers-flood-twitter-with-bikini-pics-to-protest-harassment)
 * [Tolerance is not a moral precept](https://extranewsfeed.com/tolerance-is-not-a-moral-precept-1af7007d6376)
