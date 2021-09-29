@@ -54,6 +54,7 @@ This repository contains my thoughts, lessons, guidelines and learnings around c
 
 ### General
 
+* [Design Principles to Combat Technology-Mediated Abuse](https://www.ibm.com/policy/five-technology-design-principles-to-combat-domestic/)
 * [The case for removing abuse-enabling language from the Ruby mailing list](https://twitter.com/JakeHerrington/status/1443286841533374469) &mdash; by [Jacob Herrington](https://twitter.com/JakeHerrington)
 * [Why racist/sexist/ableist jokes aren't acceptable](https://twitter.com/keystonelemur/status/1443280163203125248) &mdash; by [Brandon Weaver](https://twitter.com/keystonelemur)
 * [Why "assume good intent" harms inclusion](https://twitter.com/tiffani/status/1368643215914508288) &mdash; by [Tiffani Ashley Bell](https://twitter.com/tiffani)
