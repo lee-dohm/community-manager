@@ -54,6 +54,7 @@ This repository contains my thoughts, lessons, guidelines and learnings around c
 
 ### General
 
+* [I’m the TikTok Couch Guy. Here’s What It Was Like Being Investigated on the Internet.](https://slate.com/technology/2021/12/tiktok-couch-guy-internet-sleuths.html)
 * [Design Principles to Combat Technology-Mediated Abuse](https://www.ibm.com/policy/five-technology-design-principles-to-combat-domestic/)
 * [The case for removing abuse-enabling language from the Ruby mailing list](https://twitter.com/JakeHerrington/status/1443286841533374469) &mdash; by [Jacob Herrington](https://twitter.com/JakeHerrington)
 * [Why racist/sexist/ableist jokes aren't acceptable](https://twitter.com/keystonelemur/status/1443280163203125248) &mdash; by [Brandon Weaver](https://twitter.com/keystonelemur)
