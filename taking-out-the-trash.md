@@ -25,11 +25,12 @@ Notice that none of the above are directly targeted at a person or people but th
 [contributor-covenant]: https://www.contributor-covenant.org
 [general-silveras-speech]: https://www.youtube.com/watch?v=mU0RfhvYN8s
 
-## When to Ban
+## When to Warn and Ban
 
-* Repeat offenders - people should never get a third warning
-* Flagrant violations of public decency &mdash; spam, prurient content, blatantly insulting or harassing, _any_ sort of threat
+1) If someone’s very first interaction with the project is a violation (most often spam, but sometimes porn, doxxing, or harassment), block them outright with no warnings ... they’re just there to cause trouble
+2) If someone flagrantly violates the code of conduct but it isn’t their first interaction with the project, for example posting hardcore porn, threats of violence, obvious racism, etc, block them with no warnings
+3) In all other cases, issue a warning for first offense, block on second offense ... no matter how much time has lapsed in between offenses (edited) 
 
-## When to Warn
+In the years that I was community manager and moderator for various open source projects, I reversed a block maybe three times when the person being blocked wrote a sincere email and talked through the situation with me, could see my side of things, etc.
 
-* Any other violation of the community's code of conduct that doesn't result in a ban
+Though most of the time, when you warn people, they double down on the behavior and argue about the warning or whether we have "the right" to moderate our projects (First Amendment baloney, etc) ... which I consider a second violation and block them for it.
