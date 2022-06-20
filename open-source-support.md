@@ -1,5 +1,7 @@
 # Open Source Support
 
+> This article is also available in [Traditional Chinese](./zh-tw/open-source-support.md).
+
 Supporting open source projects is very different from traditional customer support. In open source, there isn't a traditional business/customer relationship. People will fall into the horrible "customer is always right" pattern often and it is going to be your job to help educate them on the culture around open source.
 
 ## There Are No Customers, Only Collaborators
