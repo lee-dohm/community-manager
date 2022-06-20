@@ -6,7 +6,7 @@
 
 > 如果您想要更長、以及更有建設性的觀點，您也可以閱讀我寫在 [GitHub 社群論壇](https://github.community) 上的 [《創造者、貢獻者與協作者》（Creators, Contributors, and Collaborators）](https://github.community/t5/Studies-in-Community/Creators-contributors-and-collaborators/bc-p/235) 乙文。
 
-我不知道在世界上其他地方如何，但是在美國，[「顧客永遠是對的（the customer is always right）」](https://en.wikipedia.org/wiki/The_customer_is_always_right)是個真實存在的問題。許多人用這句格言，對客服人員提出種種無理的要求（參考 [YouTube 影片](https://www.youtube.com/watch?v=9EJw6oGSft0)）。最近幾十年又有另外一股趨勢，要求「把所有仰賴你的工作的人當成顧客」，更加助長了這種態度。在傳統的生產方法論中，顧客會帶來一項好東西，可以抵銷客服人員所受到的各種不利待遇，那就是：錢。金錢就是傳統生產引擎的燃油，你給了多少錢，就會轉換成多少客戶所消費、期望、需求或是取得…的一切。
+我不知道在世界上其他地方如何，但是在美國，[「顧客永遠是對的（the customer is always right）」](https://en.wikipedia.org/wiki/The_customer_is_always_right)是個真實存在的問題。許多人用這句格言，對客服人員提出種種無理的要求（參考 [YouTube 影片](https://www.youtube.com/watch?v=9EJw6oGSft0)）。最近幾十年又有另外一股趨勢，要求「把所有仰賴你的作品的人當成顧客」，更加助長了這種態度。在傳統的生產方法論中，顧客會付出一個必須的物品，來平衡抵銷客服人員所受到的各種不利待遇，那就是：錢。金錢就是傳統生產引擎的燃油，你給了多少錢，就會轉換成多少客戶所消費、期望、需求或是取得…的一切。
 
 但是開源專案並不是這麼運作的。開源專案的回報並不是金錢，取而代之的一種啟蒙後的利己。我在被 GitHub 聘僱之前，就自發投入很多、很多時間開發 Atom 編輯器，就只因為我希望世界上有一套像 Atom 這樣的產品。我希望這套產品存在，因為 _我自己也要用_。一個開源專案之所以成功，是因為有夠多的人，對這樣的事物有夠多的渴望，於是他們自願投入時間好讓這個專案發生。他們願意不為金錢，投入他們的寶貴閒暇時間貢獻一份力量。協作，才是讓開源專案的引擎運作的燃油。
 
