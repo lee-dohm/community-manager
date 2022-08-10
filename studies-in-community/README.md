@@ -13,3 +13,4 @@ The articles are listed here in the order in which they were originally publishe
 * [Being toxic is not constructive criticism](./being-toxic-is-not-constructive-criticism.md)
 * [The X/Y Problem](./x-y-problem.md)
 * [Why empathy matters](./why-empathy-matters.md)
+* [Finding helpers](./finding-helpers.md)
