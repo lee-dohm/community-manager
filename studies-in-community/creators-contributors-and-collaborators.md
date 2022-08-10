@@ -1,5 +1,7 @@
 # Creators, contributors, and collaborators
 
+_Originally published: October 27<sup>th</sup>, 2017_
+
 "When I tell people that I'm a community manager, the most common comment I receive is something along the lines of "Wow, it must be hard dealing with all the rude, mean people online." However, what most people don't understand is that the number of people who are just awful for no reason is relatively small and they're normally pretty easy to deal with. When they violate the rules, you give them a warning. Then they go even further immediately after or in response to the warning and you ban them.
 
 The more challenging situations are people that are not familiar with or used to participating in open source projects. Their expectations can be unrealistic because the open source model is not what they're used to. It can be frustrating for both sides of an exchange because it is hard to meet in the middle when there is a disagreement about where the middle is. In this article, I'm going to talk about the negative patterns that I've seen people fall into when first participating in open source and some more productive approaches that should help everyone involved.
