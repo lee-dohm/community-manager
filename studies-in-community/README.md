@@ -17,3 +17,4 @@ The articles are listed here in the order in which they were originally publishe
 * [Shaming and why it is inappropriate](./shaming-and-why-it-is-inappropriate.md)
 * [Speak softly because you carry a big stick](./speak-softly-because-you-carry-a-big-stick.md)
 * [Being humble and gracious](./being-humble-and-gracious.md)
+* [Rest and reflection v2.0](./rest-and-reflection-v2.md)
