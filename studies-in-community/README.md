@@ -18,3 +18,4 @@ The articles are listed here in the order in which they were originally publishe
 * [Speak softly because you carry a big stick](./speak-softly-because-you-carry-a-big-stick.md)
 * [Being humble and gracious](./being-humble-and-gracious.md)
 * [Rest and reflection v2.0](./rest-and-reflection-v2.md)
+* [How to respond when you can't help](./how-to-respond-when-you-cant-help.md)
