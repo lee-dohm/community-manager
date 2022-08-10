@@ -1,6 +1,6 @@
 # Studies in Community Archive
 
-An archive of my "Studies in Community" articles originally written for the GitHub Support Community.
+An archive of my "Studies in Community" articles originally written for the GitHub Support Community. Some of these articles overlap with my writing in the main directory. These articles are generally the more polished and complete versions :grinning:
 
 The articles are listed here in the order in which they were originally published.
 
