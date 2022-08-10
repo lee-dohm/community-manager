@@ -14,3 +14,4 @@ The articles are listed here in the order in which they were originally publishe
 * [The X/Y Problem](./x-y-problem.md)
 * [Why empathy matters](./why-empathy-matters.md)
 * [Finding helpers](./finding-helpers.md)
+* [Shaming and why it is inappropriate](./shaming-and-why-it-is-inappropriate.md)
