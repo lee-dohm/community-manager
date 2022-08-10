@@ -19,3 +19,4 @@ The articles are listed here in the order in which they were originally publishe
 * [Being humble and gracious](./being-humble-and-gracious.md)
 * [Rest and reflection v2.0](./rest-and-reflection-v2.md)
 * [How to respond when you can't help](./how-to-respond-when-you-cant-help.md)
+* [Why shouldn't you feed the trolls?](./why-shouldnt-you-feed-the-trolls.md)

@@ -1,0 +1,33 @@
+# Why shouldn't you feed the trolls?
+
+_Originally published: February 28<sup>th</sup>, 2019_
+
+Malicious actors, who some call "trolls", can cause serious problems in a discussion, a forum, or even an entire community. The adage "don't feed the trolls" or the newer version, "never read the comments", is the only successful strategy available to someone who doesn't have the power to block people from the community or service in question. But why is it this way? Is there really nothing that a normal person can do when someone tries to disrupt a productive conversation other than give up and go somewhere else?
+
+I recently stumbled across [a video by Simon Sinek](https://www.youtube.com/watch?v=0bFs6ZiynSU), apparently based on ideas from [the book _Finite and Infinite Games_](https://www.amazon.com/Finite-Infinite-Games-James-Carse/dp/1476731713), that allowed me to finally answer these questions. It boils down to the fact that malicious actors are not only playing with a different set of rules than everyone else, they're playing a completely different game.
+
+## Finite and Infinite Games
+
+According to Mr. Sinek, there are two types of games: finite and infinite. A **finite game** is defined as having a set of known players, fixed rules, and an agreed upon objective or end state. An **infinite game** is different in that it can have both known and unknown players, changing rules, and has no end state; it's only objective is to extend the game. As examples, he states that baseball is a finite game and the Cold War was an infinite game.
+
+Similarly, one can look at many interactions between people as finite or infinite games. A formal debate is a finite game because it has known participants, a set of rules, and each participant's goal is to "win", whether that's by convincing judges or the audience that their position is correct or right. There are also discussions that we know are unresolvable but are still interesting to ponder, such as "what is the meaning of life?" Philosophers have been playing this infinite game for centuries. Each one contributes their own ideas. Perhaps the underlying assumptions change over time about how to define "meaning" or "life". About the only thing we know for certain is that it probably will never be answered except on a deeply personal, individual level.
+
+Both of these types of games are productive, though, because all participants know what type of game they're playing. Everyone in a debate agrees to the rules beforehand and everyone knows how a winner is going to be determined. Philosophers know that no matter how much they contribute to the discussion of the meaning of life, there are still more ideas to discover and contributions to be made.
+
+## Unproductive Games
+
+Problems arise, however, when people enter into an infinite game believing that it is a finite game. In an online discussion, this would be joining in on a conversation about something that has no single, ultimate answer believing that one can "win" by giving a definitive answer or settle the debate. A couple examples would be "iPhone vs Android" or "which way should the toilet paper unroll?" There are online arguments of these types that have been waged literally for _decades_ because as some people learn that it will never end and drop out, there are always more that come along thinking they have the final answer, the ultimate wisdom that will settle it for all time. But even though these discussions are unproductive, they aren't malicious, just misguided.
+
+## How Malicious Actors Attack Productive Discussions
+
+Most malicious actors in online discussions enjoy causing stress or grief for others by upsetting them directly, or preventing them from being able to participate in enjoyable activities. Looking back over my history of dealing with these types of interactions now using this framework I can see that the tactics used boil down to changing the type of game being played, either from finite to infinite or vice versa, and thereby making a productive discussion unproductive.
+
+In a productive "finite game" type of discussion, everyone is engaging in it attempting to discover an answer to a question or a solution to a problem. People will submit ideas or make assertions in good faith that pushes things closer to resolution, or at least uncover something that others have missed that is important to finding the best conclusion even if it temporarily moves things backwards. Someone attempting to undermine this process will constantly call into question ideas that have been previously settled; they will argue every little point. When that stops working, they'll "move the goal posts" by attempting to invalidate whatever criteria is being used to evaluate solutions. They will do their best to convert the finite game into an infinite one by changing the rules and removing or invalidating the end state. And then, if the non-malicious participants accept the new rules or end state, they will do it all over again to prevent the discussion from ever ending.
+
+In a productive "infinite game" type of discussion, all of the good faith participants know that there is no real answer. But pondering life's deeper questions, even if it is only about toilet paper rolls, is a fun intellectual exercise. In this case, someone who wants to disrupt this kind of discussion will attempt to convert it into a "finite game" by insisting that there is an ultimate answer. They will dig in their heels and insist that people are just blind, incompetent, or worse. They will take a peaceful discussion where people are respectfully considering different viewpoints, and use inanely reductive arguments to try to sidetrack all productive trains of thought. They do this because the only way to "lose" an infinite game is for the game itself to end, so the malicious actor "wins" by forcing all players to give up in frustration.
+
+## Conclusion
+
+So where does this leave us? Can a malicious game-changer be dealt with? Unfortunately, no, they can't be dealt with directly because their only goal is to prevent you from enjoying yourself. No matter what you try to do, their goals will _always_ run counter to your own, by definition. They can't be dealt with. They can't be reasoned with. They can only be ignored, excluded, or banished. But I believe that with this framework in mind, we can more easily recognize when people are disrupting productive discussions and take action more quickly to help those productive conversations flourish.
+
+Does the idea of finite and infinite games mesh with the types of discussions you've seen online? Do you think that this framework will help you be a better participant online? Let us know your thoughts in the comments below!
