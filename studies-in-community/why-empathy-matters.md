@@ -1,5 +1,7 @@
 # Why empathy matters
 
+_Originally published: July 26<sup>th</sup>, 2018_
+
 I've seen some great presentations about empathy in communication recently, specifically [mpj from Fun, Fun, Function](https://www.youtube.com/watch?v=YYzt71o2IvQ) and another from the [Destroy All Software blog](https://www.destroyallsoftware.com/blog/2018/a-case-study-in-not-being-a-jerk-in-open-source). They've inspired me to examine some of the specious arguments I've seen against communicating politely, civilly, or with empathy, talk about why they're flawed, and also talk about how research has shown that psychological safety within a team makes that team more efficient.
 
 ## Claim: Showing empathy takes too much time or effort
