@@ -16,3 +16,4 @@ The articles are listed here in the order in which they were originally publishe
 * [Finding helpers](./finding-helpers.md)
 * [Shaming and why it is inappropriate](./shaming-and-why-it-is-inappropriate.md)
 * [Speak softly because you carry a big stick](./speak-softly-because-you-carry-a-big-stick.md)
+* [Being humble and gracious](./being-humble-and-gracious.md)
