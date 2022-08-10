@@ -102,7 +102,7 @@ This repository contains my thoughts, lessons, guidelines and learnings around c
 
 ### Lee Dohm
 
-* My [Studies in Community series](https://github.community/c/github-original-series/studies-in-community/30) on the [GitHub Community Forum](https://github.community)
+* My [Studies in Community series](./studies-in-community), originally on the GitHub Support Community
 * [Conversational Aikido - The Presentation](https://speakerdeck.com/leedohm/conversational-aikido-1) - My thoughts after being the Atom message board moderator for a little over a year (see the [Conversational Aikido article](conversational-aikido.md) for the latest version of the core concept)
 
 ### Jeff Atwood and Discourse
