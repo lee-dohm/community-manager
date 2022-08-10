@@ -7,3 +7,4 @@ The articles are listed here in the order in which they were originally publishe
 * [Creators, contributors, and collaborators](./creators-contributors-and-collaborators.md)
 * [Enforcement nuances](./enforcement-nuances.md)
 * [Rest and reflection](./rest-and-reflection.md)
+* [Types of communities](./types-of-communities.md)
