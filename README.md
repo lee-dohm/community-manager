@@ -108,7 +108,7 @@ This repository contains my thoughts, lessons, guidelines and learnings around c
 
 ### Jeff Atwood and Discourse
 
-* [Discourse Trust Levels - What Do They Do](https://meta.discourse.org/t/what-do-user-trust-levels-do/4924)
+* [Understanding Discourse Trust Levels](https://blog.discourse.org/2018/06/understanding-discourse-trust-levels/)
 * [Suspension, Ban or Hellban?](https://blog.codinghorror.com/suspension-ban-or-hellban/) - these were Jeff Atwood's thoughts when he was working on [Stack Overflow](http://stackoverflow.com), he backed off of these ideas when building Discourse
 * [The "Just In Time" Theory of User Behavior](https://blog.codinghorror.com/the-just-in-time-theory/) - why Discourse shows little yellow popups when posting things
 * [Your Community Door](https://blog.codinghorror.com/your-community-door/) - why user-to-user blocking is harmful for smaller communities and the "zero tolerance" idea
@@ -120,4 +120,4 @@ This repository contains my thoughts, lessons, guidelines and learnings around c
 
 ## Copyright
 
-All material in this project is copyright &copy; 2016-2019 by [Lee Dohm](http://www.lee-dohm.com). All Rights Reserved.
+All material in this project is copyright &copy; 2016-2022 by [Lee Dohm](http://www.lee-dohm.com). All Rights Reserved.
