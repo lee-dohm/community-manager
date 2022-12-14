@@ -54,6 +54,7 @@ This repository contains my thoughts, lessons, guidelines and learnings around c
 
 ### General
 
+* [A community isn't a garden, it's a bar](https://powazek.com/posts/3571) &mdash; An article making a good case for the standard community metaphor being more like a bar than a garden
 * [Complicated politics of moderation](https://twitter.com/SA__moment/status/1587588321777451008) &mdash; Twitter thread about the slow decline of the Something Awful forums, presaging Gamergate
 * [Harassing for Contact](https://twitter.com/skyladawn/status/1556666202822524928) &mdash; Twitter thread describing someone harassing a woman with the intention of establishing personal contact, including a fabulous strategy for responding (with permission to use as a template for others :sparkling_heart:)
 * [The Asshole Filter](https://siderea.dreamwidth.org/1209794.html) &mdash; Great article describing the specific mechanism behind which not enforcing rules or boundaries makes them meaningless
