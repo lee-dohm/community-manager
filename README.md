@@ -38,18 +38,6 @@ This repository contains my thoughts, lessons, guidelines and learnings around c
 
 * [A fellow open source mantainer's experience with burnout](open-source-and-burnout.md)
 
-### Triage
-
-* Bugs, Enhancements, Feedback and Questions
-* Repro Steps
-* Helping others get where they need to go
-
-### Documentation
-
-* Git and GitHub
-* Writing Good Documentation
-* Ship It! - Don't let perfect be the enemy of good
-
 ## Other Reading
 
 ### General
