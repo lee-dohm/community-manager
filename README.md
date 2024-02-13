@@ -42,6 +42,7 @@ This repository contains my thoughts, lessons, guidelines and learnings around c
 
 ### General
 
+* [Intent vs. Impact](https://www.edbatista.com/2019/05/intent-vs-impact-when-communication-goes-awry.html) &mdash; An article describing the difference between the intent behind a message and the impact of a message ... and how to be aware of the two when crafting it
 * [A community isn't a garden, it's a bar](https://powazek.com/posts/3571) &mdash; An article making a good case for the standard community metaphor being more like a bar than a garden
 * [Complicated politics of moderation](https://twitter.com/SA__moment/status/1587588321777451008) &mdash; Twitter thread about the slow decline of the Something Awful forums, presaging Gamergate
 * [Harassing for Contact](https://twitter.com/skyladawn/status/1556666202822524928) &mdash; Twitter thread describing someone harassing a woman with the intention of establishing personal contact, including a fabulous strategy for responding (with permission to use as a template for others :sparkling_heart:)
